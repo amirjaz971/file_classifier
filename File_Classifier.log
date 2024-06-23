@@ -1,0 +1,9 @@
+2024/06/23 09:44:52,CRITICAL,Start of program
+2024/06/23 09:44:59,INFO,User has selected "C:/Users/Personal Computer/Desktop/ClassExercise1/files" as directory
+2024/06/23 09:44:59,INFO,"C:/Users/Personal Computer/Desktop/ClassExercise1/files" contains: ['a.txt', 'Excel files', 'Other files', 'test.txt', 'test.xlsx', 'Text files', 'Word files']
+2024/06/23 09:44:59,INFO,File name   File Type     Size
+2024/06/23 09:44:59,INFO,a.txt   Text file    0.0 KB
+2024/06/23 09:44:59,INFO,test.txt   Text file    0.0 KB
+2024/06/23 09:44:59,INFO,test.xlsx   Excel file    6.044921875 KB
+2024/06/23 09:45:02,INFO,Number of files which have been classified: 3
+2024/06/23 09:45:02,CRITICAL,End of program
